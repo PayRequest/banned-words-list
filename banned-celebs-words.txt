@@ -1,4 +1,3 @@
-Age
 Taylor Swift
 Kylie Jenner
 Kanye West
@@ -9,7 +8,6 @@ Neymar
 The Eagles
 Dr. Phil McGraw
 Canelo Alvarez
-
 Roger Federer
 Howard Stern
 J.K. Rowling
@@ -20,7 +18,6 @@ LeBron James
 Rush Limbaugh
 Elton John
 Jay-Z
-
 Beyoncé Knowles
 Ellen DeGeneres
 Stephen Curry
@@ -31,7 +28,6 @@ Ryan Seacrest
 Sean Combs
 James Patterson
 Metallica
-
 Robert Downey Jr.
 Kevin Durant
 Akshay Kumar
@@ -42,7 +38,6 @@ David Copperfield
 Kevin Hart
 Jackie Chan
 Travis Scott
-
 Katy Perry
 Justin Timberlake
 BTS
@@ -53,7 +48,6 @@ Scarlett Johansson
 Ben Roethlisberger
 Lewis Hamilton
 Anthony Joshua
-
 Khalil Mack
 Russell Westbrook
 Billy Joel
